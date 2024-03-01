@@ -14,4 +14,6 @@ def main():
     show_information(response.json())
   else:
     print(f"No users found with the username: {username}")
-    
+
+if __name__ == "__main__":
+  main()
