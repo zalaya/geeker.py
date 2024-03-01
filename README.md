@@ -1,7 +1,5 @@
 ## Installation
 
-Provide instructions on how to install and set up the project. This may include cloning the repository, creating a virtual environment, installing dependencies, etc.
-
 ### Windows
 
 ```bash
